@@ -22,7 +22,7 @@ pipeline {
                        {
                         not 
                         {
-                                branch "master"  
+                                branch "main"  
                         }
                        }
                 steps {
